@@ -32,6 +32,7 @@
             pkgs.probe-rs-tools
             pkgs.flip-link
             pkgs.elf2uf2-rs
+            pkgs.minicom
           ];
 
           shellHook = ''
